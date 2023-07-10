@@ -1,6 +1,5 @@
 # RStudio Theme
 
-
 ## Breeze Dark
 
 ![breeze-dark](img/breeze-dark.png)
